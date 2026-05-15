@@ -92,23 +92,10 @@ Tenho experiência no desenvolvimento de aplicações web, criação de sites re
 
 ---
 
-# 📈 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/eduardosenadev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardosenadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosenadev&layout=compact&theme=dark"/>
-</div>
-
----
-
 # 🌎 Onde me encontrar
 
 🔗 LinkedIn:
-<SEU LINK>
-
-🌐 Portfólio:
-<SEU SITE>
+<https://www.linkedin.com/in/eduardosenadev/>
 
 📧 Contato:
 eduardodasilva_1999@outlook.com
